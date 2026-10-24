@@ -1,0 +1,45 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "home_page": "Home page",
+  "about_page": "About page",
+  "example_message": "Welcome to your i18n app.",
+  "language_label": "Language",
+  "current_locale": "Current locale: {locale}",
+  "learn_router": "Learn Paraglide JS",
+
+  "common_rank": "RANK",
+  "common_flag": "FLAG",
+  "common_name": "NAME",
+  "common_faults": "FAULTS",
+  "common_time": "TIME",
+  "common_total_riders": "Total riders on this list",
+
+  "fusion_rank": "Rank",
+  "fusion_flag": "",
+  "fusion_name_header": "Name",
+  "fusion_faults": "Faults",
+  "fusion_time": "Time",
+  "common_recorded": "RECORDED:",
+  "common_select_game": "Select a Game",
+  "common_leaderboards": "Leaderboards",
+
+  "game_selector_title": "Trials Leaderboards",
+  "game_selector_subtitle": "Choose a game to view leaderboards",
+
+  "evolution_title": "OVERHALL",
+  "evolution_name": "Trials Evolution",
+  "evolution_user": "USER",
+
+  "fusion_title": "Trials Fusion",
+  "fusion_name": "Trials Fusion",
+  "fusion_club": "",
+  "fusion_medal": "Track Medal",
+  "fusion_page": "{current} / {total}",
+
+  "rising_title": "Trials Rising",
+  "rising_name": "Trials Rising",
+  "rising_platform": "PLATFORM",
+  "rising_bike": "BIKE",
+  "rising_score": "SCORE",
+  "rising_medal": "MEDAL"
+}
